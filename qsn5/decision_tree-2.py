@@ -14,8 +14,6 @@ import pandas as pd
 
 def transform(data):
   #importing libraries
-  import pandas as pd
-  import numpy as np
   from sklearn.preprocessing import OneHotEncoder
 
   # Converting Taxable Income to float type
